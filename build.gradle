@@ -19,6 +19,10 @@ group 'com.cloncoding.book'
 version '1.0-SNAPSHOT'
 sourceCompatibility = '11'
 
+jar {
+    enabled = false
+}
+
 repositories {
     mavenCentral()
 }
