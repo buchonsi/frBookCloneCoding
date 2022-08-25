@@ -16,7 +16,7 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
 group 'com.cloncoding.book'
-version '1.0-SNAPSHOT'
+version '1.01-SNAPSHOT'
 sourceCompatibility = '11'
 
 jar {
